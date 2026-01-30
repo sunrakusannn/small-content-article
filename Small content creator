@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>I'm a small content creator</title>
+  <meta property="og:title" content="I'm a small content creator">
+  <meta property="og:description" content="Check out my work!">
+  <meta property="og:image" content="https://via.placeholder.com/1200x630">
+  <meta property="og:type" content="article">
+  <meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<p>I'm a small content creator</p>
+</body>
+</html>
